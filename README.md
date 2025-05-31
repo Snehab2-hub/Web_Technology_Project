@@ -1,2 +1,2 @@
-# Web_Technology_Project
+# Simple Calculator
 This was build Using HTML,CSS,JavaScript
